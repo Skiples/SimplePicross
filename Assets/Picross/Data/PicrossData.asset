@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b97635d62ec5f4fa75b3fa4a42556c, type: 3}
+  m_Name: PicrossData
+  m_EditorClassIdentifier: 
+  gridSize: 7
+  answer: 41000000220000001400000008000000140000002200000041000000
+  editMode: 0
+  grid: 01000000000001000100000001000000010001000000000001000000000001000100000001000000010001000000000001
+  inputTexture: {fileID: 2800000, guid: 9c469f6bf8c8ea84fafb3cd85cda9df2, type: 3}
